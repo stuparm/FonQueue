@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Netbeans%20projects/FonQueue/src/java/api/Monitor.java</file>
+            <file>file:/D:/Netbeans%20projects/FonQueue/src/java/logika/sluzba/Salter.java</file>
+            <file>file:/D:/Netbeans%20projects/FonQueue/src/java/util/properties/ServletProperties.java</file>
+            <file>file:/D:/Netbeans%20projects/FonQueue/web/index.html</file>
+            <file>file:/D:/Netbeans%20projects/FonQueue/src/java/util/type/ResponseType.java</file>
+            <file>file:/D:/Netbeans%20projects/FonQueue/web/authorization_denied.html</file>
+            <file>file:/D:/Netbeans%20projects/FonQueue/nbproject/build-impl.xml</file>
+            <file>file:/D:/Netbeans%20projects/FonQueue/web/login.html</file>
+            <file>file:/D:/Netbeans%20projects/FonQueue/src/java/logika/red/PomocniRed.java</file>
+            <file>file:/D:/Netbeans%20projects/FonQueue/src/java/controller/AppController.java</file>
+            <file>file:/D:/Netbeans%20projects/FonQueue/src/java/listener/SalterSessionListener.java</file>
+            <file>file:/D:/Netbeans%20projects/FonQueue/src/java/api/OtvoriSalter.java</file>
+            <file>file:/D:/Netbeans%20projects/FonQueue/src/java/servlet/FrontController.java</file>
+            <file>file:/D:/Netbeans%20projects/FonQueue/web/WEB-INF/web.xml</file>
+            <file>file:/D:/Netbeans%20projects/FonQueue/src/java/izuzetak/PrazanRedException.java</file>
+            <file>file:/D:/Netbeans%20projects/FonQueue/src/java/logika/domen/Student.java</file>
+            <file>file:/D:/Netbeans%20projects/FonQueue/web/WEB-INF/admin.jsp</file>
+            <file>file:/D:/Netbeans%20projects/FonQueue/src/java/logika/sluzba/Sluzba.java</file>
+            <file>file:/D:/Netbeans%20projects/FonQueue/src/java/util/type/LoginType.java</file>
+            <file>file:/D:/Netbeans%20projects/FonQueue/src/java/util/JsonUtil.java</file>
+            <file>file:/D:/Netbeans%20projects/FonQueue/src/java/api/Login.java</file>
+            <file>file:/D:/Netbeans%20projects/FonQueue/src/java/util/properties/LoginProperties.java</file>
+            <file>file:/D:/Netbeans%20projects/FonQueue/src/java/api/Api.java</file>
+            <file>file:/D:/Netbeans%20projects/FonQueue/src/java/logika/red/GlavniRed.java</file>
+            <file>file:/D:/Netbeans%20projects/FonQueue/web/WEB-INF/salter.jsp</file>
+            <file>file:/D:/Netbeans%20projects/FonQueue/src/java/util/properties/AppProperties.java</file>
+        </group>
+    </open-files>
+</project-private>
